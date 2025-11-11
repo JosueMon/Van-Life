@@ -1,5 +1,5 @@
 import React from "react"
-import revImg from "../assets/images/reviews-graph.png"
+import revImg from "../../assets/images/reviews-graph.png"
 import { BsStarFill } from "react-icons/bs"
 
 export default function Reviews() {
